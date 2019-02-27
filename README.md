@@ -9,3 +9,7 @@
 - log path: D:/Desktop/gwrecv_20190122/*
 - output file: source filename + ".txt"
 - number of CPU to use: 8
+
+## processing
+- 21개 파일 2.04G 처리 1분 미만
+  - ![처리 결과](images/elapsed.png.jpg)
